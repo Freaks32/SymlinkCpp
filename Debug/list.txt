@@ -1,0 +1,5 @@
+$RAMDISK=R:\
+--------------------------
+#skyrim			||D:\Program Files (x86)\Steam\steamapps\common\skyrim
+#Killing Floor		||D:\Program Files (x86)\Steam\steamapps\common\killingfloor
+#Derpbox		||D:\Lol\
